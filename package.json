@@ -1,0 +1,19 @@
+{
+  "name": "pupeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sd": "node sample.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "debug": "^4.1.1",
+    "lodash": "^4.17.15",
+    "puppeteer": "^3.0.2"
+  }
+}
